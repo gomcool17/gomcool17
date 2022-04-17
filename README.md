@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Hayeon Kim](https://github-readme-stats.vercel.app/api?username=gomcool17&theme=gruvbox_light&show_icons=true)
-<img src="https://img.shields.io/badge/#6DB33F?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/#6DB33F?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"
